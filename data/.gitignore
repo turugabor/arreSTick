@@ -1,0 +1,7 @@
+paper\ figures/*
+.ipynb_checkpoints/*
+maspec/*
+experiments/*
+data/maspec/*
+data/subcellular*
+data/human_proteome*
